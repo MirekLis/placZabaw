@@ -1,6 +1,6 @@
 zajêcia z GIT
 
 test konfliktu
-drugi commit
+third commit
 
 Miros³aw Lis
