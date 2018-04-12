@@ -2,5 +2,5 @@ zajêcia z GIT
 
 test konfliktu
 third commit
-
+ tortoise test 
 Miros³aw Lis
